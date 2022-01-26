@@ -11,15 +11,19 @@
 
 - The main tools used : 
 
-++ ThingsBoard IOT platform
+- ThingsBoard IOT platform
+
 <img src="https://pbs.twimg.com/profile_images/804683632807919616/q93hDzml_400x400.jpg" alt="Logo Hydatis">
 
-++ Apache Kafka
+- Apache Kafka
+
 <img src="https://www.mrcoral.co.il/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2020/11/%D7%9E%D7%94-%D7%96%D7%94-Apache-Kafka.jpg.webp" alt="Logo Hydatis">
 
-++ Spark Streaming
+- Spark Streaming
+
 <img src="https://www.diegocalvo.es/wp-content/uploads/2018/07/spark_streaming_logo-300x189.png" alt="Logo Hydatis">
 
-++ Postgresql Database
+- Postgresql Database
+
 <img src="https://community.jaguar-network.com/wp-content/uploads/2019/02/postgresql-696x456.gif" alt="Logo Hydatis">
 
