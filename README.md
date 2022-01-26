@@ -6,5 +6,5 @@
 <img src="https://i1.wp.com/www.hydatis.com/wp-content/uploads/2020/08/logo-Hydatis-sans-slogan.png" alt="Logo Hydatis">
 
 - The main objective: to route data from the IOT platform (ThingsBoard) to a local database (Postgresql).
-- 
+ 
 - The code, as well as the report and the presentation are uploaded here.
