@@ -13,7 +13,7 @@
 
 - ThingsBoard IOT platform
 
-<img src="https://pbs.twimg.com/profile_images/804683632807919616/q93hDzml_400x400.jpg" alt="Logo Hydatis">
+<img src="https://pbs.twimg.com/profile_images/804683632807919616/q93hDzml_400x400.jpg" alt="Logo Hydatis" width="600" height="300">
 
 - Apache Kafka
 
